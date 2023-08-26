@@ -1,0 +1,14 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Snake implemented in p5.",
+  "scripts": {
+    "start": "http-server --no-dotfiles"
+  },
+  "keywords": ["canvas", "snake"],
+  "author": "Jakub Barczyk",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
